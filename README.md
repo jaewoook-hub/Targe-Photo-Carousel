@@ -1,5 +1,5 @@
 # Carousel
-Image Carousel
+Image Carousel module for an e-commerce website for clothing and accessories 
 
 # Welcome to the image carousel.
 
