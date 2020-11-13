@@ -1,0 +1,37 @@
+.sideBarContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+
+.SideBarEntry {
+  height: auto;
+  max-width: auto;
+  max-height: 80px;
+  display: block;
+}
+
+.greyedImage {
+  height: auto;
+  width: auto;
+  max-width: 80px;
+  max-height: 80px;
+  display: block;
+  filter: brightness(30%);
+}
+
+.imageContainer {
+  position: relative;
+  text-align: center;
+  color: white;
+
+}
+
+.centeredOverImage {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+}

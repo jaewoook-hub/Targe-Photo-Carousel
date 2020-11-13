@@ -1,0 +1,11 @@
+.mainImage {
+  max-height: 400px;
+}
+figure {
+  max-height: 400px;
+  /* background-repeat: no-repeat; */
+}
+
+figure:hover img {
+  opacity: 0;
+}

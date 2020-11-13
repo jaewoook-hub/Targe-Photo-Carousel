@@ -1,0 +1,14 @@
+.bigImageContainer {
+  justify-content: center;
+  align-items: center;
+}
+
+.bigImage {
+  max-height: 88vh;
+}
+
+.bigCarousel {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

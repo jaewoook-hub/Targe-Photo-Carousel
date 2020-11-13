@@ -1,0 +1,12 @@
+.bottomBar {
+  display: flex;
+  padding: 5px;
+  align-items: center;
+  justify-content: center;
+  max-height: 25vh;
+}
+
+.BottomBarEntry {
+  max-height: 80px;
+  padding: 5px;
+}
